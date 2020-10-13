@@ -48,8 +48,11 @@
     border-top: none;
 }
 #contact{
-    padding: 30px;
+    height: 300px;
 }
 #contact h6{
     color: gray;
+}
+footer{
+    text-align: center;
 }
